@@ -1,0 +1,7 @@
+transformers
+Flask
+requests
+bs4
+flask-cors
+torch
+TensorFlow

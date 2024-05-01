@@ -1,0 +1,26 @@
+IMPORTANT:
+
+Run server on Windows:
+
+1. Navigate to the summarize directory
+2. Right click on 'setup.bat'
+3. Select copy path
+4. Paste the path into terminal
+5. Follow instructions prompted in terminal
+6. Please wait for a bit. Setting up the enviornment may take some time.
+
+Run server on Mac/Linux:
+
+1. Navigate to the summarize directory
+2. Enter the following command into terminal 'chmod +x setup.sh'
+3. Run the script with ./setup.sh
+4. Paste the path into terminal
+5. Follow instructions prompted in terminal
+6. Please wait for a bit. Setting up the enviornment may take some time.
+
+Load in the chrome extension frontend on Google Chrome Browser
+
+1. Go to chrome://extensions
+2. Enable developer mode
+3. Click on "Load unpacked" and upload the summarize folder
+4. In extensions tab on chrome, navigate to the Article Summarizer extension to use.
